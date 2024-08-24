@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-snr/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-snr/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 ## Simulation
 |  |
