@@ -57,5 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
