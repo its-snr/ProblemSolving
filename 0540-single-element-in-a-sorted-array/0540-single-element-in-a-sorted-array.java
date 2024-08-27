@@ -1,31 +1,18 @@
 class Solution {
-    public int singleNonDuplicate(int[] nums) {
-        int n=nums.length;
-        int left=0;
-        int right=n-1;
-        if(n==1)return nums[0];
-        if(nums[0]!=nums[1]){
-            return nums[0];
-        }
-        else if( nums[n-1]!=nums[n-2]){
-            return nums[n-1];
-        }
-            int mid=(left+right)/2;
-
-        while(left<=right){
-            mid=(left+right)/2;
-
-            if(nums[mid+1]!=nums[mid] && nums[mid]!=nums[mid-1]){
-                return nums[mid];
+    public int singleNonDuplicate(int[] arr) {
+        int n=arr.length;
+        int i=0;
+        int j=1;
+        //if(n%2==0)return -1613987200;
+        while(i<=n-2 && j<=n-1){
+            if(arr[i]!=arr[j]){
+                return arr[i];
             }
-            if(mid%2==0 && nums[mid]==nums[mid+1] || mid%2!=0 && nums[mid]==nums[mid-1]){
-                left=mid+1;
-            }
-            else{
-                right=mid-1;
-            }
+            i=i+2;
+            j+=2;
+            
         }
-        return -1;
+        return arr[i];
         
     }
 }
