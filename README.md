@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Graph
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
