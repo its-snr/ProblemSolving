@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/its-snr/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/its-snr/ProblemSolving/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Graph
 |  |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
