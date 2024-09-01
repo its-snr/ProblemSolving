@@ -3,11 +3,7 @@ class Solution {
 
         int n=queries.length;
         int[] ans=new int[n];
-        PriorityQueue<Integer>tree=new PriorityQueue<Integer>(
-        Comparator.reverseOrder());
-        PriorityQueue<Integer>min=new PriorityQueue<Integer>();
-        ArrayList<Integer> arr=new ArrayList<Integer>();
-        int t=1;
+        PriorityQueue<Integer>tree=new PriorityQueue<Integer>(Comparator.reverseOrder());
         for(int i=0;i<n;i++){
             int a=Math.abs(queries[i][0]);
             int b=Math.abs(queries[i][1]);
@@ -29,7 +25,7 @@ class Solution {
                     tree.add(a+b);
                     if(tree.size()>k){
                         int temp=tree.poll();
-                        min.add(temp);
+                       // min.add(temp);
                     }
                     if(tree.size()<k){
                         ans[i]=-1;
@@ -37,7 +33,7 @@ class Solution {
                     else {
                         ans[i]=tree.peek();
                     }
-                // System.out.println(arr);
+               // System.out.println(tree);
 
                 // // }
                 // Collections.sort(arr);
