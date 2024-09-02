@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-snr/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/its-snr/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/its-snr/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/its-snr/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
