@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/its-snr/ProblemSolving/tree/master/0342-power-of-four) |
 | [0564-find-the-closest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-snr/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
+| [2155-find-missing-observations](https://github.com/its-snr/ProblemSolving/tree/master/2155-find-missing-observations) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/its-snr/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/its-snr/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/its-snr/ProblemSolving/tree/master/2155-find-missing-observations) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/its-snr/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2155-find-missing-observations](https://github.com/its-snr/ProblemSolving/tree/master/2155-find-missing-observations) |
 ## Graph
 |  |
 | ------- |
