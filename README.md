@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-snr/ProblemSolving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/its-snr/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/its-snr/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/its-snr/ProblemSolving/tree/master/2155-find-missing-observations) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2411-spiral-matrix-iv](https://github.com/its-snr/ProblemSolving/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-snr/ProblemSolving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-snr/ProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-snr/ProblemSolving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-snr/ProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-snr/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Brainteaser
 |  |
 | ------- |
