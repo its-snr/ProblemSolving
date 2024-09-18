@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
 | [0564-find-the-closest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-snr/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-snr/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0906-walking-robot-simulation](https://github.com/its-snr/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Breadth-First Search
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/its-snr/ProblemSolving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
