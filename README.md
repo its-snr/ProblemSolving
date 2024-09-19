@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/its-snr/ProblemSolving/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/its-snr/ProblemSolving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/its-snr/ProblemSolving/tree/master/0342-power-of-four) |
 | [0564-find-the-closest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-snr/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/its-snr/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/its-snr/ProblemSolving/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/its-snr/ProblemSolving/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/its-snr/ProblemSolving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/its-snr/ProblemSolving/tree/master/0342-power-of-four) |
 ## Array
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0241-different-ways-to-add-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/its-snr/ProblemSolving/tree/master/1250-longest-common-subsequence) |
 ## Number Theory
 |  |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
