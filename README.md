@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/its-snr/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
@@ -198,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/its-snr/ProblemSolving/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
