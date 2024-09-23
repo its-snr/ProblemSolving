@@ -1,31 +1,51 @@
-import java.util.HashSet;
-import java.util.Set;
-
+class Node{
+    public Node[] child;
+    public boolean isEnd;
+    public Node(){
+        child = new Node[26];
+        isEnd = false;
+    }
+}
 class Solution {
     public int minExtraChar(String s, String[] dictionary) {
-        Set<String> dict = new HashSet<>();
-        for (String word : dictionary) {
-            dict.add(word); // Add dictionary words to a set for quick lookup
+        Node root = new Node();
+        for(String str: dictionary){
+            insert(str, root);
         }
         int n = s.length();
-        int[] dp = new int[n + 1]; // DP array to track the minimum extra characters
-        for (int i = 0; i <= n; i++) {
-            dp[i] = n; // Initialize with maximum extra characters
+        int[] dp = new int[n+1];
+        for(int i = 0; i < n+1; i++){
+            dp[i] = i;
         }
-        dp[0] = 0; // No extra characters for an empty string
 
-        // Iterate through each index in the string
-        for (int i = 1; i <= n; i++) {
-            // Check all substrings ending at i
-            for (int j = 0; j < i; j++) {
-                String sub = s.substring(j, i); // Get substring s[j:i]
-                if (dict.contains(sub)) {
-                    dp[i] = Math.min(dp[i], dp[j]); // If substring found in dictionary
-                }
+        for(int i = 0; i < n; i++){
+            search(s, root, i, dp);
+            dp[i+1] = Math.min(dp[i+1], dp[i]+1);
+        }
+        return dp[n];
+    }
+    public void insert(String s, Node root){
+        for(int i = 0; i < s.length(); i++){
+            int path = s.charAt(i) - 'a';
+            if(root.child[path] == null){
+                Node node = new Node();
+                root.child[path] = node;
             }
-            dp[i] = Math.min(dp[i], dp[i - 1] + 1); // Consider current character as extra
+            root = root.child[path];
         }
-
-        return dp[n]; // Return the result from dp[n]
+        root.isEnd = true;
+    }
+    public void search(String s, Node root, int idx, int[] dp){
+        for(int i = idx; i < s.length(); i++){
+            int path = s.charAt(i) - 'a';
+            if(root.child[path] != null){
+                root = root.child[path];
+                if(root.isEnd){
+                    dp[i+1] = Math.min(dp[i+1], dp[idx]);
+                }
+            } else {
+                return;
+            }
+        }
     }
 }
