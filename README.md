@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/its-snr/ProblemSolving/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/its-snr/ProblemSolving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/its-snr/ProblemSolving/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/its-snr/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/its-snr/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/its-snr/ProblemSolving/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/its-snr/ProblemSolving/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/its-snr/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/its-snr/ProblemSolving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-snr/ProblemSolving/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/its-snr/ProblemSolving/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/its-snr/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
