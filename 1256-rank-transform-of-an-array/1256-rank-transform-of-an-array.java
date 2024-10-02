@@ -1,7 +1,7 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
         int n=arr.length;
-
+if(n==0)return arr;
         int[]sort=arr.clone();
         Arrays.sort(sort);
         //SortedSet<Integer>set=new TreeSet<Integer>();
@@ -9,14 +9,15 @@ class Solution {
         //     set.add(arr[i]);
         // }
         LinkedHashMap<Integer,Integer>map=new LinkedHashMap<Integer,Integer>();
-        int rank=1;
-        for(int num : sort){
+        int rank=2;
+        map.put(sort[0],1);
+        for(int i=1;i<n;i++){
            // int num=set.remove();
-            if(map.containsKey(num)){
-                map.put(num,map.get(num));
-            }
+           if(sort[i-1]==sort[i]){
+            continue;
+           }
             else {
-                map.put(num,rank++);
+                map.put(sort[i],rank++);
             }
             //rank++;
         }
