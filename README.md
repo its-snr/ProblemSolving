@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-snr/ProblemSolving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/its-snr/ProblemSolving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-snr/ProblemSolving/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/its-snr/ProblemSolving/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/its-snr/ProblemSolving/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/its-snr/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/its-snr/ProblemSolving/tree/master/1002-maximum-width-ramp) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/its-snr/ProblemSolving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/its-snr/ProblemSolving/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/its-snr/ProblemSolving/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
