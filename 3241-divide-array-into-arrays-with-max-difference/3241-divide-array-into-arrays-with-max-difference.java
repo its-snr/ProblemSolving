@@ -1,25 +1,25 @@
 class Solution {
     public int[][] divideArray(int[] nums, int k) {
-
-        int[][] ans=new int[nums.length/3][3];
-        Arrays.sort(nums);
-        int x=0;
-        int y=0;
-        int i=0;
-        while(i<nums.length){
-            int nums1=nums[i++];
-            int nums2=nums[i++];
-            int nums3=nums[i++];
-            if(nums3-nums2<=k && nums2-nums1<=k && nums3-nums1<=k){                              
-                ans[x][y++]=nums1;
-                ans[x][y++]=nums2;
-                ans[x][y]=nums3;
-                y=0;
-                x++;           
+        int max = Integer.MIN_VALUE;
+        for(int i: nums)
+            max = Math.max(i, max);
+        int[] count = new int[max+1];
+        for(int i:nums)
+            count[i]++;
+        int[][] res = new int[nums.length/3][3];
+        int row=0, col=0;
+        for(int i=0;i<max+1;i++){
+            if(count[i]>0){
+                while(count[i]>0){
+                    res[row][col++] = i;
+                    if(col==3){
+                        if(Math.abs(res[row][0]-res[row][2])>k) return new int[0][0];
+                        row++;col=0;
+                    }
+                    count[i]--;
+                }
             }
-            else return new int[0][0];
-        }
-        return ans;
-        
+        }  
+        return res;
     }
 }
