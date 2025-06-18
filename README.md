@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-snr/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/its-snr/ProblemSolving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/its-snr/ProblemSolving/tree/master/2755-extra-characters-in-a-string) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/its-snr/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-snr/ProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-snr/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-snr/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/its-snr/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Memoization
 |  |
 | ------- |
