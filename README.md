@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/its-snr/ProblemSolving/tree/master/2155-find-missing-observations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-snr/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/its-snr/ProblemSolving/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/its-snr/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-snr/ProblemSolving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/its-snr/ProblemSolving/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-snr/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-snr/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-snr/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/its-snr/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-snr/ProblemSolving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-snr/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-snr/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/its-snr/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
