@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/its-snr/ProblemSolving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/its-snr/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/its-snr/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-snr/ProblemSolving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-snr/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/its-snr/ProblemSolving/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/its-snr/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-snr/ProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-snr/ProblemSolving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-snr/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/its-snr/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-snr/ProblemSolving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Brainteaser
 |  |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-snr/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/its-snr/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Memoization
 |  |
 | ------- |
