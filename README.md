@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/its-snr/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-snr/ProblemSolving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/its-snr/ProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/its-snr/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/its-snr/ProblemSolving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/its-snr/ProblemSolving/tree/master/2755-extra-characters-in-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/its-snr/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/its-snr/ProblemSolving/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/its-snr/ProblemSolving/tree/master/2155-find-missing-observations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/its-snr/ProblemSolving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2411-spiral-matrix-iv](https://github.com/its-snr/ProblemSolving/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/its-snr/ProblemSolving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
