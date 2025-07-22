@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/its-snr/ProblemSolving/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/its-snr/ProblemSolving/tree/master/1813-maximum-erasure-value) |
 | [1923-sentence-similarity-iii](https://github.com/its-snr/ProblemSolving/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/its-snr/ProblemSolving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/its-snr/ProblemSolving/tree/master/2035-count-sub-islands) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/its-snr/ProblemSolving/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/its-snr/ProblemSolving/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/its-snr/ProblemSolving/tree/master/1813-maximum-erasure-value) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/its-snr/ProblemSolving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-snr/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/its-snr/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-snr/ProblemSolving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1813-maximum-erasure-value](https://github.com/its-snr/ProblemSolving/tree/master/1813-maximum-erasure-value) |
 ## Monotonic Stack
 |  |
 | ------- |
