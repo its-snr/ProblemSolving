@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/its-snr/ProblemSolving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/its-snr/ProblemSolving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/its-snr/ProblemSolving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/its-snr/ProblemSolving/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/its-snr/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-snr/ProblemSolving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-snr/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/its-snr/ProblemSolving/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/its-snr/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/its-snr/ProblemSolving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-snr/ProblemSolving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/its-snr/ProblemSolving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/its-snr/ProblemSolving/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/its-snr/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/its-snr/ProblemSolving/tree/master/1304-longest-happy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/its-snr/ProblemSolving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-snr/ProblemSolving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-snr/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
