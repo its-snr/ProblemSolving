@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/its-snr/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-snr/ProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/its-snr/ProblemSolving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Graph
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/its-snr/ProblemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-snr/ProblemSolving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/its-snr/ProblemSolving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/its-snr/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/its-snr/ProblemSolving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/its-snr/ProblemSolving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Memoization
 |  |
 | ------- |
