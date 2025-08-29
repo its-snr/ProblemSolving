@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/its-snr/ProblemSolving/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/its-snr/ProblemSolving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/its-snr/ProblemSolving/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/its-snr/ProblemSolving/tree/master/0476-number-complement) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/its-snr/ProblemSolving/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/its-snr/ProblemSolving/tree/master/0179-largest-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/its-snr/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/its-snr/ProblemSolving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
