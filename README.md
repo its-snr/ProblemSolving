@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/its-snr/ProblemSolving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/its-snr/ProblemSolving/tree/master/2155-find-missing-observations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/its-snr/ProblemSolving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-snr/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/its-snr/ProblemSolving/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/its-snr/ProblemSolving/tree/master/1813-maximum-erasure-value) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/its-snr/ProblemSolving/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/its-snr/ProblemSolving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/its-snr/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/its-snr/ProblemSolving/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/its-snr/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/its-snr/ProblemSolving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/its-snr/ProblemSolving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/its-snr/ProblemSolving/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/its-snr/ProblemSolving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/its-snr/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/its-snr/ProblemSolving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/its-snr/ProblemSolving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/its-snr/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/its-snr/ProblemSolving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/its-snr/ProblemSolving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/its-snr/ProblemSolving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/its-snr/ProblemSolving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/its-snr/ProblemSolving/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/its-snr/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
